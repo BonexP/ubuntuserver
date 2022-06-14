@@ -1,1 +1,1 @@
-ubuntuserver
+# ubuntu-template
